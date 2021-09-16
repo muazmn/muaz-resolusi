@@ -3,7 +3,9 @@ RENCANA CITA CITA SAYA
 -menjadi freelancer
 *membuat web designer
 *berkhidmat secara front end dan back end
--bekerja dalam bidang cyber security
+^menjadi front end bersama team
+^bina sebuah laman web multifuntional
 -menjadi web developer
+^mencari pusat kerja di kedah
 -menyelam dalam bidang ethical hacker
 
